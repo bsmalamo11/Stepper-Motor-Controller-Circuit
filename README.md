@@ -30,7 +30,7 @@ The motor coils are connected to outputs 16, 15, 14, and 13 of the ULN2003A.
 
 ---
 
-## Simulation Screenshot
+## Wiring
 ![Circuit](https://github.com/user-attachments/assets/aca2df42-d82d-4893-b7ac-9edc498566b0)
 
 
